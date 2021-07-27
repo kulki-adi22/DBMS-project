@@ -89,7 +89,7 @@ function display_admin_panel(){
       <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">Payment Status</a>
       <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">Prescription</a>
       <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">Doctors Section</a>
-       <a class="list-group-item list-group-item-action" id="list-attend-list" data-toggle="list" href="#table" role="tab" aria-controls="settings">History of visitors</a>
+       <a class="list-group-item list-group-item-action" id="list-attend-list" data-toggle="list" href="output.php" role="tab" aria-controls="settings">History of visitors</a>
     </div><br>
   </div>
   <div class="col-md-8">
